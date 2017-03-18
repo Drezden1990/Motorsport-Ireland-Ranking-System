@@ -1,0 +1,3 @@
+Shunta created all html and css files as well as the following: driverPortal.php, driverProfile.php, index.php, leaderboards.php, loginForm.php, officialsPortal.php, regulations.php, technical.php, viewProfile.php, viewResults.php
+
+Simon created all the rest of the scripts.
